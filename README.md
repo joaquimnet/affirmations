@@ -2,7 +2,7 @@
 
 > My hello world java program 🌎
 
-It that tells you a positive affirmation. ✌
+It tells you a positive affirmation. ✌
 
 ### Credit
 
